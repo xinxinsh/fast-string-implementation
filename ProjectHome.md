@@ -1,0 +1,1 @@
+This is a fast c++ string
